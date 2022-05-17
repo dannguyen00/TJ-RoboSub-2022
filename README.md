@@ -1,1 +1,3 @@
 # TJ RoboSub 2022
+
+As part of the Automation and Robotics Senior Research Lab, for our Senior Research project, we worked in a team of seven to build a submarine as part of the RoboSub Competition. The RoboSub Competition is an international student competition in which teams build and program an autonomous submarine that is up to 3' x 6' x 3' to complete certain tasks and challenges underwater. This was the Robotics Lab's first year working towards the competition. The team was split up into three main subteams: Chassis, Electronics, and Programming. In the future, we want to implement the computer vision and autonomous features of the submarine.
